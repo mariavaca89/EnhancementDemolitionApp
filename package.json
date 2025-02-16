@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/EnhancementDemolitionApp/your-repository/issues"
   },
-  "homepage": "https://github.com/EnhancementDemolitionApp/your-repository#readme",
+  "homepage": "http://enhancementdemolition.com",
   "dependencies": {
     "axios": "^1.7.9",
     "react": "^19.0.0",
